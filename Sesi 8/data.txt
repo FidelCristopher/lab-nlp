@@ -1,0 +1,9 @@
+target = [
+    "i love machine learning",
+    "natural language processing is fun",
+    "i enjoy learning new models",
+    "text data is interesting",
+    "ngrams help capture patterns"
+]
+
+query = ["language models are fun"]

@@ -1,0 +1,5 @@
+stemming
+'Writing', 'playing', 'played', 'riding', 'drives', 'breaking', 'lives', 'running', 'given', chosen', 'drawing'
+
+wordnet
+'Quickly kicking quirky kangaroos caused chaos'
